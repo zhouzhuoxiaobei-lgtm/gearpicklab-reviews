@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 10, 2026
+- [3 Specs and Features — What to Know](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-10-3-specs-and-features-what-to-know.md)
 - [SIG SAUER Hunting Electronics Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-10-sig-sauer-hunting-electronics-review.md)
 - [Complete Home &amp; Kitchen Buying Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-10-complete-home-kitchen-buying-guide.md)
 - [What Makes the HARFINGTON 3pcs Precision Stand Out in Home &amp; Kitchen?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-10-what-makes-the-harfington-3pcs-precision-stand-out-in-home-kitchen.md)
