@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 11, 2026
+- [Avanti Portable Cooktop Review: Key Specifications &amp; Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-avanti-portable-cooktop-review-key-specifications-features.md)
 - [Is the NiHome Wall Mount Right for You? A Spec Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-is-the-nihome-wall-mount-right-for-you-a-spec-analysis.md)
 - [Hi or URASISTO 22? A Comparison](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-hi-or-urasisto-22-a-comparison.md)
 - [Comparing the URASISTO 22 with Other Toys &amp; Games](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-comparing-the-urasisto-22-with-other-toys-games.md)
