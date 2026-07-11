@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 11, 2026
+- [Hi or URASISTO 22? A Comparison](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-hi-or-urasisto-22-a-comparison.md)
 - [Comparing the URASISTO 22 with Other Toys &amp; Games](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-comparing-the-urasisto-22-with-other-toys-games.md)
 
 ### July 10, 2026
