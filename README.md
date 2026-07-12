@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 12, 2026
+- [ZTSXLLIM Extension Cord Review: Key Specifications &amp; Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-12-ztsxllim-extension-cord-review-key-specifications-features.md)
 - [Getgear Laser Distance Home &amp; Kitchen Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-12-getgear-laser-distance-home-kitchen-review.md)
 
 ### July 11, 2026
