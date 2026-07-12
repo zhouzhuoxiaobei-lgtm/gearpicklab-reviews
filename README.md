@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 12, 2026
+- [Getgear Laser Distance Home &amp; Kitchen Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-12-getgear-laser-distance-home-kitchen-review.md)
+
 ### July 11, 2026
 - [(2026 Upgrade) Gevi 20 Bar Espresso Machine with Grinder &amp; Milk Frother, Professional Coffee Make&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-2026-upgrade-gevi-20-bar-espresso-machine-with-grinder-milk-frother-professional-coffee-make.md)
 - [The Yan He Review: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-11-the-yan-he-review-what-the-specs-tell-us.md)
