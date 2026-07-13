@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 13, 2026
+- [Key Specifications of the Prdingfy Sourdough Starter Explained](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-13-key-specifications-of-the-prdingfy-sourdough-starter-explained.md)
+
 ### July 12, 2026
 - [FCLPAN 1200 Yards in Sports &amp; Outdoors: Key Specs &amp; Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-12-fclpan-1200-yards-in-sports-outdoors-key-specs-features.md)
 - [MegaWise 5 Review: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-12-megawise-5-review-what-the-specs-tell-us.md)
