@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 13, 2026
+- [GETKIVA Foldable Wall — A Detailed Look at the Specifications](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-13-getkiva-foldable-wall-a-detailed-look-at-the-specifications.md)
 - [Key Specifications of the Prdingfy Sourdough Starter Explained](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-13-key-specifications-of-the-prdingfy-sourdough-starter-explained.md)
 
 ### July 12, 2026
