@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 14, 2026
+- [ATN BlazeHunter XD 1280&#215;1024: A Detailed Spec Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-14-atn-blazehunter-xd-12801024-a-detailed-spec-analysis.md)
+
 ### July 13, 2026
 - [Laposso Milk Frother: A Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-13-laposso-milk-frother-a-practical-analysis.md)
 - [Sports &amp; Outdoors Analysis: Sig Sauer KILO4K 6 Reviewed](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-13-sports-outdoors-analysis-sig-sauer-kilo4k-6-reviewed.md)
