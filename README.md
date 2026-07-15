@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 15, 2026
+- [Dirza Dirza Bike Review: Features, Specs &amp; Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-dirza-dirza-bike-review-features-specs-analysis.md)
 - [HEALEEP Glass Pickle: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-healeep-glass-pickle-breaking-down-the-specs.md)
 
 ### July 14, 2026
