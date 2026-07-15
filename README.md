@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 15, 2026
+- [Bushnell Tour V3 — Specifications, Features &amp; Value](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-bushnell-tour-v3-specifications-features-value.md)
 - [HOLDRAIS Broom Mop: A Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-holdrais-broom-mop-a-practical-analysis.md)
 - [AROMA Digital Rice: Evaluating the Features &amp; Value](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-aroma-digital-rice-evaluating-the-features-value.md)
 - [Riveira Dark Bamboo Specs and Features — What to Know](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-15-riveira-dark-bamboo-specs-and-features-what-to-know.md)
