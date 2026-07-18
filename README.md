@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 18, 2026
+- [Stanley Dewalt DWHT38116S: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-18-stanley-dewalt-dwht38116s-specs-performance-review.md)
 - [Lavazza Expert Coffee: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-18-lavazza-expert-coffee-what-to-know-before-buying.md)
 
 ### July 17, 2026
