@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [Baketivity Sourdough Starter: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-baketivity-sourdough-starter-spec-focused-overview.md)
 - [2Pcs Multifunctional Sink: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-2pcs-multifunctional-sink-what-to-know-before-buying.md)
 
 ### July 19, 2026
