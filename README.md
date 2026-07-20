@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [The Yan He vs JOREST 155 in 1: Value Compared](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-the-yan-he-vs-jorest-155-in-1-value-compared.md)
 - [Trailblaze Complete Banneton vs MINO ANT Sourdough: &#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-trailblaze-complete-banneton-vs-mino-ant-sourdough.md)
 - [Yigiao 9 or Pilida Quick Repair: Right for You?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-yigiao-9-or-pilida-quick-repair-right-for-you.md)
 - [WORKPRO 582 vs CNGGV 18 in 1: Which Wins? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-workpro-582-vs-cnggv-18-in-1-which-wins-2026.md)
