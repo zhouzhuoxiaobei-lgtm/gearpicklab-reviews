@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [Trailblaze Complete Banneton vs Dotela Sourdough Sta&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-trailblaze-complete-banneton-vs-dotela-sourdough-sta.md)
 - [Motta Cocoa Duster/Shaker vs Lunaicorn Milk Frother:&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-motta-cocoa-duster-shaker-vs-lunaicorn-milk-frother.md)
 - [Sliner 4 Sets vs HASHMUST HASHMUST 33: Specs Compared](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-sliner-4-sets-vs-hashmust-hashmust-33-specs-compared.md)
 - [47 vs VEOFEMLEA 30: Full Comparison](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-47-vs-veofemlea-30-full-comparison.md)
