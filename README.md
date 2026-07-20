@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [RICHFANCY Silicone Kitchen: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-richfancy-silicone-kitchen-specs-performance-review.md)
 - [OROTO LINKA Laser: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-oroto-linka-laser-specs-performance-review.md)
 - [Food Storage Containers Compared: 4 Products Reviewed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-food-storage-containers-compared-4-products-reviewed-2026.md)
 - [Mixers &amp; Blenders Compared: 4 Products Reviewed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-mixers-blenders-compared-4-products-reviewed-2026.md)
