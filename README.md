@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [SEDY 300 vs INCLY 1/4“ Extra: Which Wins? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-sedy-300-vs-incly-1-4-extra-which-wins-2026.md)
 - [IIDEA 4 Pack vs ZEUKMXOO Wall Mounted: Side-by-Side &#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-iidea-4-pack-vs-zeukmxoo-wall-mounted-side-by-side.md)
 - [JUZUXI 4 vs KEZERS Laser Level 360: Key Differences](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-juzuxi-4-vs-kezers-laser-level-360-key-differences.md)
 - [nicebottles Glass Handled vs Craft A Brew: Which Hom&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-nicebottles-glass-handled-vs-craft-a-brew-which-hom.md)
