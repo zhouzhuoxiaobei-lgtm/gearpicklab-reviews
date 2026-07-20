@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 20, 2026
+- [Afwqm 11 vs MEATER SE Wireless: Side-by-Side (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-afwqm-11-vs-meater-se-wireless-side-by-side-2026.md)
 - [Yigiao 9 vs Pricyru Integrated Internal: Which Home &#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-yigiao-9-vs-pricyru-integrated-internal-which-home.md)
 - [WORKPRO 582 vs Filluck 485PCS Solder: Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-workpro-582-vs-filluck-485pcs-solder-compared-2026.md)
 - [CafeGrace 8 in 1 vs Puldoum Milk Frother: Analysis (&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-cafegrace-8-in-1-vs-puldoum-milk-frother-analysis.md)
