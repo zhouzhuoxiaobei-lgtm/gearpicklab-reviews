@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 21, 2026
+- [OSTBA 1800W Portable: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-21-ostba-1800w-portable-key-specs-value-2026.md)
+
 ### July 20, 2026
 - [RICHFANCY Silicone Kitchen: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-richfancy-silicone-kitchen-specs-performance-review.md)
 - [OROTO LINKA Laser: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-20-oroto-linka-laser-specs-performance-review.md)
