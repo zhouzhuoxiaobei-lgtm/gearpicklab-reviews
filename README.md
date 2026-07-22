@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 22, 2026
+- [CFMASTER Power Tool vs CFMASTER Large Power: Is the Upgrade Worth I&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-cfmaster-power-tool-vs-cfmaster-large-power-is-the-upgrade-worth-i.md)
 - [Best Alternatives to CFMASTER Power Tool — 5 Similar Products (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-best-alternatives-to-cfmaster-power-tool-5-similar-products-2026.md)
 - [CFMASTER Power Tool: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-cfmaster-power-tool-specs-performance-review.md)
 - [Best Electronics for Heavy Duty: 4 Products Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-best-electronics-for-heavy-duty-4-products-compared-2026.md)
