@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 23, 2026
+- [Kakalote Kakalote Double: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-kakalote-kakalote-double-spec-focused-overview.md)
+
 ### July 22, 2026
 - [DOYOLLA Bread Proofing or DOYOLLA Bread Proofing? A Detailed Compar&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-doyolla-bread-proofing-or-doyolla-bread-proofing-a-detailed-compar.md)
 - [Alternatives to DOYOLLA Bread Proofing: 5 Similar Products Compared&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-22-alternatives-to-doyolla-bread-proofing-5-similar-products-compared.md)
