@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 23, 2026
+- [77L Sourdough Starter: A Detailed Spec Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-77l-sourdough-starter-a-detailed-spec-analysis.md)
 - [The Ultimate Complete Kitchen Appliance Set: 5 Products Reviewed (2&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-the-ultimate-complete-kitchen-appliance-set-5-products-reviewed-2.md)
 - [UDI UDI 20 or FermentPro 12.8L Smart? A Detailed Comparison (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-udi-udi-20-or-fermentpro-12-8l-smart-a-detailed-comparison-2026.md)
 - [UDI UDI 20: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-udi-udi-20-right-for-your-needs.md)
