@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 23, 2026
+- [ChangBERT Portable Induction: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-changbert-portable-induction-spec-focused-overview.md)
 - [The Zerodeko Wide Mouth Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-the-zerodeko-wide-mouth-starter-pack-what-to-order-together-2026.md)
 - [Zerodeko Wide Mouth or Zerodeko Wooden Pliers? A Detailed Compariso&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-zerodeko-wide-mouth-or-zerodeko-wooden-pliers-a-detailed-compariso.md)
 - [Top Zerodeko Wide Mouth for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-23-top-zerodeko-wide-mouth-for-home-kitchen-2026.md)
