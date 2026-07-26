@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 26, 2026
+- [KOSIDA 10Pcs Dual: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-26-kosida-10pcs-dual-spec-breakdown-2026.md)
 - [5 Essential Accessories for Your CaseSack Case (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-26-5-essential-accessories-for-your-casesack-case-2026.md)
 - [Electronics FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-26-electronics-faq-10-common-questions-answered-2026.md)
 - [The CaseSack Case Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-26-the-casesack-case-starter-pack-what-to-order-together-2026.md)
