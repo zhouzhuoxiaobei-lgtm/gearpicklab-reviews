@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 27, 2026
+- [500W Mini Electric: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-27-500w-mini-electric-practical-analysis.md)
 - [The Gravity Grabber Mini Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-27-the-gravity-grabber-mini-starter-pack-what-to-order-together-2026.md)
 - [Best Alternatives to Gravity Grabber Mini — 7 Similar Products (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-27-best-alternatives-to-gravity-grabber-mini-7-similar-products-2026.md)
 - [Gravity Grabber Mini: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-27-gravity-grabber-mini-what-to-know-before-buying.md)
