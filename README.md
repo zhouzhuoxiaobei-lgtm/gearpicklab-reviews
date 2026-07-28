@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 28, 2026
+- [VEDALIO Sourdough Starter: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-28-vedalio-sourdough-starter-key-specs-value-2026.md)
 - [VIA CREMA Stainless Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-28-via-crema-stainless-setup-essential-accessories-add-ons-2026.md)
 - [VIA CREMA Stainless: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-28-via-crema-stainless-practical-analysis.md)
 - [Home &amp; Kitchen FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-28-home-kitchen-faq-10-common-questions-answered-2026.md)
