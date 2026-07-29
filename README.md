@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 29, 2026
+- [Elmtap Ratchet Screwdriver: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-elmtap-ratchet-screwdriver-breaking-down-the-specs.md)
 - [The Ninja Pod Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-the-ninja-pod-starter-pack-what-to-order-together-2026.md)
 - [Ninja Pod vs Ninja: Which One Is Right for You? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-ninja-pod-vs-ninja-which-one-is-right-for-you-2026.md)
 - [Ninja Pod vs KEENSTAR 3.5Bar Espresso: Specs Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-ninja-pod-vs-keenstar-3-5bar-espresso-specs-compared-2026.md)
