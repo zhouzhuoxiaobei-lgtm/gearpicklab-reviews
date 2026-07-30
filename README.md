@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 30, 2026
+- [KSVO Large Power vs MIXIKE Lightweight Wall: Side-by-Side (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-ksvo-large-power-vs-mixike-lightweight-wall-side-by-side-2026.md)
 - [KSVO Large Power: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-ksvo-large-power-specs-performance-review.md)
 - [5 Common Electronics Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-5-common-electronics-buying-mistakes-and-how-to-avoid-them-2026.md)
 - [Electronics Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-electronics-buying-checklist-5-things-to-check-before-you-buy-2026.md)
