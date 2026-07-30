@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 30, 2026
+- [IPXEAD 15PCS Geometric: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-ipxead-15pcs-geometric-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Wall Organizer (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-5-essential-accessories-for-your-wall-organizer-2026.md)
 - [x Slotted Parallel in Sizes Explained: What Does It Mean for Home &amp; Kitchen? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-x-slotted-parallel-in-sizes-explained-what-does-it-mean-for-home-kitchen-2026.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
