@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 30, 2026
+- [Brukid 2x3ft Adjustable: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-brukid-2x3ft-adjustable-what-the-specs-tell-us.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [Home &amp; Kitchen FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-home-kitchen-faq-10-common-questions-answered-2026.md)
 - [Piutouyar Piutouyar 2 or LYYUWE 12 Pack? A Detailed Comparison (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-piutouyar-piutouyar-2-or-lyyuwe-12-pack-a-detailed-comparison-2026.md)
