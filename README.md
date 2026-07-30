@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### July 30, 2026
+- [Amazon Basics 1800W Buyer&#8217;s Checklist: Everything You Need (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-amazon-basics-1800w-buyers-checklist-everything-you-need-2026.md)
 - [Amazon Basics 1800W: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-amazon-basics-1800w-what-the-specs-tell-us.md)
 
 ### July 29, 2026
