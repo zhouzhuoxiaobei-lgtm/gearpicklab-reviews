@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### July 30, 2026
+- [Amazon Basics 1800W: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-30-amazon-basics-1800w-what-the-specs-tell-us.md)
+
 ### July 29, 2026
 - [Top Heavdace Large Garage for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-top-heavdace-large-garage-for-home-kitchen-2026.md)
 - [Nafewin Double Induction Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-29-nafewin-double-induction-setup-essential-accessories-add-ons-2026.md)
