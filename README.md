@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 1, 2026
+- [TempPro TP15H Waterproof: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-01-temppro-tp15h-waterproof-right-for-your-needs.md)
+
 ### July 31, 2026
 - [5 Essential Accessories for Your POCREATION Stainless Steel (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-31-5-essential-accessories-for-your-pocreation-stainless-steel-2026.md)
 - [5 Budget-Friendly Electronics Worth Your Attention (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-07-31-5-budget-friendly-electronics-worth-your-attention-2026.md)
