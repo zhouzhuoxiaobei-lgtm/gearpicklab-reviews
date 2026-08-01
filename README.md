@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 1, 2026
+- [REDCAMP Portable Camping: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-01-redcamp-portable-camping-spec-focused-overview.md)
 - [5 Common Home &amp; Kitchen Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-01-5-common-home-kitchen-buying-mistakes-and-how-to-avoid-them-2026.md)
 - [EWAHBBX Multi Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-01-ewahbbx-multi-setup-essential-accessories-add-ons-2026.md)
 - [EWAHBBX Multi: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-01-ewahbbx-multi-practical-analysis.md)
