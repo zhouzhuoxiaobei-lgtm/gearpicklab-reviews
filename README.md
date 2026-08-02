@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 2, 2026
+- [BOSCH GLM165 Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-bosch-glm165-alternatives-what-to-consider-instead-2026.md)
 - [BOSCH GLM165: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-bosch-glm165-breaking-down-the-specs.md)
 - [What You Get Explained: What Does It Mean for Electronics? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-what-you-get-explained-what-does-it-mean-for-electronics-2026.md)
 - [Electronics Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-electronics-buying-checklist-5-things-to-check-before-you-buy-2026.md)
