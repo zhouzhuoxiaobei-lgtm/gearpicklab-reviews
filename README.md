@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 2, 2026
+- [Should You Upgrade to BOSCH GCL165? BOSCH GLM165 vs BOSCH GCL165 Co&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-should-you-upgrade-to-bosch-gcl165-bosch-glm165-vs-bosch-gcl165-co.md)
 - [BOSCH GLM165 Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-bosch-glm165-alternatives-what-to-consider-instead-2026.md)
 - [BOSCH GLM165: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-bosch-glm165-breaking-down-the-specs.md)
 - [What You Get Explained: What Does It Mean for Electronics? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-what-you-get-explained-what-does-it-mean-for-electronics-2026.md)
