@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 2, 2026
+- [Dimensions Explained: What Does It Mean for Home &amp; Kitchen? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-dimensions-explained-what-does-it-mean-for-home-kitchen-2026.md)
 - [Complete Your BOSCH GLM165 Setup: Must-Have Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-complete-your-bosch-glm165-setup-must-have-accessories-2026.md)
 - [Should You Upgrade to BOSCH GCL165? BOSCH GLM165 vs BOSCH GCL165 Co&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-should-you-upgrade-to-bosch-gcl165-bosch-glm165-vs-bosch-gcl165-co.md)
 - [BOSCH GLM165 Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-bosch-glm165-alternatives-what-to-consider-instead-2026.md)
