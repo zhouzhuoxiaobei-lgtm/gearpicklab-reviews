@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 2, 2026
+- [Electronics Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-electronics-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [Electronics FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-electronics-faq-10-common-questions-answered-2026.md)
 - [Crivnhar 10 Packs Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-crivnhar-10-packs-setup-essential-accessories-add-ons-2026.md)
 - [Swap It: 7 Alternatives to Crivnhar 10 Packs Worth Considering (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-swap-it-7-alternatives-to-crivnhar-10-packs-worth-considering-2026.md)
