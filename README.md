@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 2, 2026
+- [Capacity Explained: What Does It Mean for Home &amp; Kitchen? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-capacity-explained-what-does-it-mean-for-home-kitchen-2026.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [What to Buy With Your PTSLKHN Eye Glass: Complete Checklist (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-what-to-buy-with-your-ptslkhn-eye-glass-complete-checklist-2026.md)
 - [Top PTSLKHN Eye Glass for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-02-top-ptslkhn-eye-glass-for-home-kitchen-2026.md)
