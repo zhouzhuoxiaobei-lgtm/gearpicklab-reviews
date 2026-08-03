@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 3, 2026
+- [DIYEAH Portable Small: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-diyeah-portable-small-key-specs-value-2026.md)
 - [WORKPRO 24 in 1: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-workpro-24-in-1-spec-breakdown-2026.md)
 - [ozPackage List Explained: What Does It Mean for Kitchen Appliances? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-ozpackage-list-explained-what-does-it-mean-for-kitchen-appliances-2026.md)
 - [Kitchen Appliances Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-kitchen-appliances-buying-checklist-5-things-to-check-before-you-buy-2026.md)
