@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 3, 2026
+- [TeqHome Double Hot: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-teqhome-double-hot-does-it-deliver-2026.md)
 - [YoLink Smart X3 vs YoLink Smart X3: Which One Is Right for You? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-yolink-smart-x3-vs-yolink-smart-x3-which-one-is-right-for-you-2026.md)
 - [YoLink Smart X3 — Home &amp; Kitchen Review (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-yolink-smart-x3-home-kitchen-review-2026.md)
 - [What to Buy With Your YYST YYST Skateboard: Complete Checklist (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-what-to-buy-with-your-yyst-yyst-skateboard-complete-checklist-2026.md)
