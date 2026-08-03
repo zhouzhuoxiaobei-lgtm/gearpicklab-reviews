@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 3, 2026
+- [TeqHome Double Hot or TeqHome 2000W Hot? A Detailed Comparison (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-teqhome-double-hot-or-teqhome-2000w-hot-a-detailed-comparison-2026.md)
 - [TeqHome Double Hot vs AMZCHEF Portable Induction: Worth the&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-teqhome-double-hot-vs-amzchef-portable-induction-worth-the.md)
 - [TeqHome Double Hot: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-teqhome-double-hot-does-it-deliver-2026.md)
 - [YoLink Smart X3 vs YoLink Smart X3: Which One Is Right for You? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-03-yolink-smart-x3-vs-yolink-smart-x3-which-one-is-right-for-you-2026.md)
