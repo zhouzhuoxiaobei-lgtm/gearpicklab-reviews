@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 5, 2026
+- [CQQHSDOEH Kitchen small: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-05-cqqhsdoeh-kitchen-small-what-to-know-before-buying.md)
 - [Power Explained: What Does It Mean for Kitchen Appliances? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-05-power-explained-what-does-it-mean-for-kitchen-appliances-2026.md)
 - [Kitchen Appliances Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-05-kitchen-appliances-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [What to Buy With Your ANQIA Compact: Complete Checklist (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-05-what-to-buy-with-your-anqia-compact-complete-checklist-2026.md)
