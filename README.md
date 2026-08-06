@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 6, 2026
+- [Yrcasu Portable Multifunctional vs waatfeet Double Induction: Is th&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-06-yrcasu-portable-multifunctional-vs-waatfeet-double-induction-is-th.md)
 - [Not Sure About Yrcasu Portable Multifunctional? Check These 7 Simil&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-06-not-sure-about-yrcasu-portable-multifunctional-check-these-7-simil.md)
 - [Yrcasu Portable Multifunctional: Key Specs &amp; Value (&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-06-yrcasu-portable-multifunctional-key-specs-value.md)
 - [5 Common Home &amp; Kitchen Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-06-5-common-home-kitchen-buying-mistakes-and-how-to-avoid-them-2026.md)
