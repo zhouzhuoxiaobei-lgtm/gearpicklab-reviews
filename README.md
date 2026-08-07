@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 7, 2026
+- [Alloyman 4&#215;360°Self Leveling: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-07-alloyman-4360self-leveling-features-specs-guide.md)
 - [5 Essential Accessories for Your LIBODOUR Kitchen Utensil (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-07-5-essential-accessories-for-your-libodour-kitchen-utensil-2026.md)
 - [The LIBODOUR Kitchen Utensil Starter Pack: What to Order Together (&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-07-the-libodour-kitchen-utensil-starter-pack-what-to-order-together.md)
 - [LIBODOUR Kitchen Utensil — Home &amp; Kitchen Review (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-07-libodour-kitchen-utensil-home-kitchen-review-2026.md)
