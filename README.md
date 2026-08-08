@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 8, 2026
+- [TOEASYWAY Collapsible Magnetic: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-08-toeasyway-collapsible-magnetic-spec-focused-overview.md)
 - [5 Essential Accessories for Your Olayks Portable Induction (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-08-5-essential-accessories-for-your-olayks-portable-induction-2026.md)
 - [Is Olayks Portable Induction Worth the Extra Cost? Comparing Olayks&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-08-is-olayks-portable-induction-worth-the-extra-cost-comparing-olayks.md)
 - [Olayks Portable Induction: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-08-olayks-portable-induction-key-specs-value-2026.md)
