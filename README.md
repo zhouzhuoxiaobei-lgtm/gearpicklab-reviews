@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 9, 2026
+- [GHXIGZN Sourdough Starter Buyer&#8217;s Checklist: Everything You Need (2&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-ghxigzn-sourdough-starter-buyers-checklist-everything-you-need-2.md)
 - [Alternatives to GHXIGZN Sourdough Starter: 5 Similar Products Compa&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-alternatives-to-ghxigzn-sourdough-starter-5-similar-products-compa.md)
 - [GHXIGZN Sourdough Starter: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-ghxigzn-sourdough-starter-breaking-down-the-specs.md)
 - [Shot Scope Technologies or Shot Scope Technologies? A Detailed Comp&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-shot-scope-technologies-or-shot-scope-technologies-a-detailed-comp.md)
