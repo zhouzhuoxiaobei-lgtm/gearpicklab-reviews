@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 9, 2026
+- [Friheten Sourdough Starter: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-friheten-sourdough-starter-key-specs-value-2026.md)
 - [Overall Dimensions Explained: What Does It Mean for Electronics? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-overall-dimensions-explained-what-does-it-mean-for-electronics-2026.md)
 - [Home &amp; Kitchen Budget-Friendly: 4 Reviewed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-home-kitchen-budget-friendly-4-reviewed-2026.md)
 - [Giwil 4: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-giwil-4-features-specs-guide.md)
