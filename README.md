@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 10, 2026
+- [The CUSIMAX 1800W Portable Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-the-cusimax-1800w-portable-starter-pack-what-to-order-together-2026.md)
 - [CUSIMAX 1800W Portable — Kitchen Appliances Review (&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-cusimax-1800w-portable-kitchen-appliances-review.md)
 - [5 Essential Accessories for Your INKBIRD Wireless BBQ (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-5-essential-accessories-for-your-inkbird-wireless-bbq-2026.md)
 - [Dimensions Explained: What Does It Mean for Home &amp; Kitchen? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-dimensions-explained-what-does-it-mean-for-home-kitchen-2026.md)
