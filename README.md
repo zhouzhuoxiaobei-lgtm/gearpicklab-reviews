@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 10, 2026
+- [INKBIRD Wireless BBQ: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-inkbird-wireless-bbq-spec-breakdown-2026.md)
 - [What to Buy With Your Milwaukee 2473: Complete Checklist (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-what-to-buy-with-your-milwaukee-2473-complete-checklist-2026.md)
 - [Is ENONCI Power Tool Worth the Extra Cost? Comparing Milwaukee 2473&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-is-enonci-power-tool-worth-the-extra-cost-comparing-milwaukee-2473.md)
 - [Milwaukee 2473 Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-milwaukee-2473-alternatives-what-to-consider-instead-2026.md)
