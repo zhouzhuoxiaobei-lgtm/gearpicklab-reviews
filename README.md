@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 10, 2026
+- [Milwaukee 2473: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-milwaukee-2473-what-to-know-before-buying.md)
+
 ### August 9, 2026
 - [5 Common Kitchen Appliances Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-5-common-kitchen-appliances-buying-mistakes-and-how-to-avoid-them-2026.md)
 - [5 Essential Accessories for Your UMUACCAN Milk Frothing (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-09-5-essential-accessories-for-your-umuaccan-milk-frothing-2026.md)
