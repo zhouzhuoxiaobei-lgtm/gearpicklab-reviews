@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 10, 2026
+- [Capacity Explained: What Does It Mean for Home &amp; Kitchen? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-capacity-explained-what-does-it-mean-for-home-kitchen-2026.md)
 - [Complete Your Hi Setup: Must-Have Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-complete-your-hi-setup-must-have-accessories-2026.md)
 - [Should You Upgrade to Hi? Hi vs Hi Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-should-you-upgrade-to-hi-hi-vs-hi-compared-2026.md)
 - [Swap It: 7 Alternatives to Hi Worth Considering (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-swap-it-7-alternatives-to-hi-worth-considering-2026.md)
