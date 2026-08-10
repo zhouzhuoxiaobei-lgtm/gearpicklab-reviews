@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 10, 2026
+- [Hi: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-hi-key-specs-value-2026.md)
 - [5 Common Kitchen Appliances Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-5-common-kitchen-appliances-buying-mistakes-and-how-to-avoid-them-2026.md)
 - [The CUSIMAX 1800W Portable Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-the-cusimax-1800w-portable-starter-pack-what-to-order-together-2026.md)
 - [CUSIMAX 1800W Portable — Kitchen Appliances Review (&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-10-cusimax-1800w-portable-kitchen-appliances-review.md)
