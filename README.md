@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 11, 2026
+- [ChangBERT Induction Cooktop vs ChangBERT Portable Induction: Is the&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-changbert-induction-cooktop-vs-changbert-portable-induction-is-the.md)
 - [Not Sure About ChangBERT Induction Cooktop? Check These 5 Similar P&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-not-sure-about-changbert-induction-cooktop-check-these-5-similar-p.md)
 - [ChangBERT Induction Cooktop: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-changbert-induction-cooktop-is-it-worth-it-2026.md)
 - [5 Common Home &amp; Kitchen Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-5-common-home-kitchen-buying-mistakes-and-how-to-avoid-them-2026.md)
