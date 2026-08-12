@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 12, 2026
+- [K &amp; H: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-12-k-h-spec-breakdown-2026.md)
 - [5 Essential Accessories for Your Tool Mat &amp; (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-12-5-essential-accessories-for-your-tool-mat-2026.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-12-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [Home &amp; Kitchen FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-12-home-kitchen-faq-10-common-questions-answered-2026.md)
