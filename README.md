@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 12, 2026
+- [5 Common Home &amp; Kitchen Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-12-5-common-home-kitchen-buying-mistakes-and-how-to-avoid-them-2026.md)
+
 ### August 11, 2026
 - [gPackage Included Explained: What Does It Mean for Kitchen Appliances? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-gpackage-included-explained-what-does-it-mean-for-kitchen-appliances-2026.md)
 - [Complete Your ChangBERT Induction Cooktop Setup: Must-Have Accessor&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-11-complete-your-changbert-induction-cooktop-setup-must-have-accessor.md)
