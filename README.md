@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 13, 2026
+- [Leica DISTO X6 P2P: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-leica-disto-x6-p2p-spec-focused-overview.md)
 - [Professional 158-Piece Home Setup: Essential Accessories &amp; Add-Ons &#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-professional-158-piece-home-setup-essential-accessories-add-ons.md)
 
 ### August 12, 2026
