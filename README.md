@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 13, 2026
+- [Leica DISTO X6 P2P Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-leica-disto-x6-p2p-setup-essential-accessories-add-ons-2026.md)
 - [Is Takteq Battery Cover Worth the Extra Cost? Comparing Leica DISTO&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-is-takteq-battery-cover-worth-the-extra-cost-comparing-leica-disto.md)
 - [Leica DISTO X6 P2P: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-leica-disto-x6-p2p-spec-focused-overview.md)
 - [Professional 158-Piece Home Setup: Essential Accessories &amp; Add-Ons &#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-13-professional-158-piece-home-setup-essential-accessories-add-ons.md)
