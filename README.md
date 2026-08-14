@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 14, 2026
+- [Should You Buy Leexox Golf Rangefinder or Precision Pro NX9?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-14-should-you-buy-leexox-golf-rangefinder-or-precision-pro-nx9.md)
 - [Leexox Golf Rangefinder: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-14-leexox-golf-rangefinder-spec-focused-overview.md)
 - [5 Essential Accessories for Your Professional 158-Piece Home (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-14-5-essential-accessories-for-your-professional-158-piece-home-2026.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-14-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
