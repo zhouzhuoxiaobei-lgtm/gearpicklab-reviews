@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 15, 2026
+- [BlayaAdd 2 Pack: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-blayaadd-2-pack-what-to-know-before-buying.md)
 - [Home &amp; Kitchen FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-home-kitchen-faq-10-common-questions-answered-2026.md)
 - [Beginner-Friendly Home &amp; Kitchen: 4 Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-beginner-friendly-home-kitchen-4-top-picks-2026.md)
 - [Home &amp; Kitchen Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-home-kitchen-buying-checklist-5-things-to-check-before-you-buy-2026.md)
