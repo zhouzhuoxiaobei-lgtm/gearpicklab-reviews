@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 15, 2026
+- [Joben Oligey 3: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-joben-oligey-3-spec-breakdown-2026.md)
 - [5 Essential Accessories for Your BlayaAdd 2 Pack (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-5-essential-accessories-for-your-blayaadd-2-pack-2026.md)
 - [Electronics Buying Checklist: 5 Things to Check Before You Buy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-electronics-buying-checklist-5-things-to-check-before-you-buy-2026.md)
 - [BlayaAdd 2 Pack: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-blayaadd-2-pack-what-to-know-before-buying.md)
