@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 16, 2026
+- [Kitchen Appliances Pick: waatfeet Double Induction (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-kitchen-appliances-pick-waatfeet-double-induction-2026.md)
 - [The Vohala 40-Drawer Bolt Add-On Checklist: 5 Essentials (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-the-vohala-40-drawer-bolt-add-on-checklist-5-essentials-2026.md)
 - [Vohala 40-Drawer Bolt Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-vohala-40-drawer-bolt-alternatives-what-to-consider-instead-2026.md)
 - [Vohala 40-Drawer Bolt: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-vohala-40-drawer-bolt-what-the-specs-tell-us.md)
