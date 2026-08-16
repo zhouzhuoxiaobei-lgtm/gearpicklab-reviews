@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 16, 2026
+- [HAUSHOF Powerful Rechargeable: Specs &amp; Performance R&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-haushof-powerful-rechargeable-specs-performance-r.md)
+
 ### August 15, 2026
 - [5 Common Home &amp; Kitchen Buying Mistakes and How to Avoid Them (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-5-common-home-kitchen-buying-mistakes-and-how-to-avoid-them-2026.md)
 - [Home &amp; Kitchen FAQ: 10 Common Questions Answered (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-15-home-kitchen-faq-10-common-questions-answered-2026.md)
