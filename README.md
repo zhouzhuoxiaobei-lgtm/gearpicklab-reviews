@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 17, 2026
+- [UmeHome Swivel Bike: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-17-umehome-swivel-bike-right-for-your-needs.md)
+
 ### August 16, 2026
 - [GREEN SHOT Range vs Its Top 6 Competitors (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-green-shot-range-vs-its-top-6-competitors-2026.md)
 - [Top GREEN SHOT Range for Sports &amp; Outdoors (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-16-top-green-shot-range-for-sports-outdoors-2026.md)
