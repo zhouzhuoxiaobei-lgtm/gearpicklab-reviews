@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 19, 2026
+- [Salton Portable Double Accessories for New Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-salton-portable-double-accessories-for-new-owners-2026.md)
 - [Salton Portable Double vs Salton Cooktop: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-salton-portable-double-vs-salton-cooktop-spec-by-spec.md)
 - [Not Sure About Salton Portable Double? Check These 7&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-not-sure-about-salton-portable-double-check-these-7.md)
 - [Salton Portable Double: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-salton-portable-double-spec-focused-overview.md)
