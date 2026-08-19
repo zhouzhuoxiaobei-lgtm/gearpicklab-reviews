@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 19, 2026
+- [Salton Portable Double vs Salton Cooktop: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-salton-portable-double-vs-salton-cooktop-spec-by-spec.md)
 - [Not Sure About Salton Portable Double? Check These 7&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-not-sure-about-salton-portable-double-check-these-7.md)
 - [Salton Portable Double: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-salton-portable-double-spec-focused-overview.md)
 - [Make the Most of Michnild 9pc Stainless: Essential Add-Ons&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-make-the-most-of-michnild-9pc-stainless-essential-add-ons.md)
