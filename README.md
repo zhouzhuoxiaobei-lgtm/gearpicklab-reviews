@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 20, 2026
+- [cicike Milk Frothing: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-20-cicike-milk-frothing-spec-breakdown-2026.md)
+
 ### August 19, 2026
 - [What to Buy With Your CasaVibe Canning Supplies: Complete&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-what-to-buy-with-your-casavibe-canning-supplies-complete.md)
 - [CasaVibe Canning Supplies vs Vigamimn Canning Pot-Canning:&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-19-casavibe-canning-supplies-vs-vigamimn-canning-pot-canning.md)
