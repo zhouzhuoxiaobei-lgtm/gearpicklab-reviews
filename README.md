@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 21, 2026
+- [Dpofirs Milk Frothing: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-21-dpofirs-milk-frothing-breaking-down-the-specs.md)
+
 ### August 20, 2026
 - [What to Get Instead of kitchentoolz Large Glass: 5 Picks&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-20-what-to-get-instead-of-kitchentoolz-large-glass-5-picks.md)
 - [kitchentoolz Large Glass: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-20-kitchentoolz-large-glass-does-it-deliver-2026.md)
