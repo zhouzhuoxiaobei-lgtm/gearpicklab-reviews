@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 22, 2026
+- [BDORFXZEV LM50A/LM70A/LM100A/LM120A Distance: Does It&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-bdorfxzev-lm50a-lm70a-lm100a-lm120a-distance-does-it.md)
+
 ### August 21, 2026
 - [5 Essential Accessories for Your FLEXIMOUNTS Garage Wall (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-21-5-essential-accessories-for-your-fleximounts-garage-wall-2026.md)
 - [Safe load capacity Made Simple: How to Choose Furniture (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-21-safe-load-capacity-made-simple-how-to-choose-furniture-2026.md)
