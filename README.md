@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 22, 2026
+- [Top Dezin Hot Pot for Kitchen Appliances (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-top-dezin-hot-pot-for-kitchen-appliances-2026.md)
 - [5 Essential Accessories for Your BDORFXZEV LM50A/LM70A/LM100A/LM120A Distance (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-5-essential-accessories-for-your-bdorfxzev-lm50a-lm70a-lm100a-lm120a-distance-2026.md)
 - [Make the Most of BDORFXZEV LM50A/LM70A/LM100A/LM120A&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-make-the-most-of-bdorfxzev-lm50a-lm70a-lm100a-lm120a.md)
 - [Skip BDORFXZEV LM50A/LM70A/LM100A/LM120A Distance? What&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-skip-bdorfxzev-lm50a-lm70a-lm100a-lm120a-distance-what.md)
