@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 22, 2026
+- [Skip BDORFXZEV LM50A/LM70A/LM100A/LM120A Distance? What&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-skip-bdorfxzev-lm50a-lm70a-lm100a-lm120a-distance-what.md)
 - [BDORFXZEV LM50A/LM70A/LM100A/LM120A Distance: Does It&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-bdorfxzev-lm50a-lm70a-lm100a-lm120a-distance-does-it.md)
 
 ### August 21, 2026
