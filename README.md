@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 23, 2026
+- [DUFU Paper Towel Accessories That Last: Quality Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-dufu-paper-towel-accessories-that-last-quality-picks-2026.md)
 - [DUFU Paper Towel: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-dufu-paper-towel-practical-analysis.md)
 
 ### August 22, 2026
