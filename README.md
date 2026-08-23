@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 23, 2026
+- [Top INKBIRD Wireless Dual for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-top-inkbird-wireless-dual-for-home-kitchen-2026.md)
 - [Cuguords 2-Pack 1.5x4ft: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-cuguords-2-pack-1-5x4ft-spec-breakdown-2026.md)
 - [Do Not Skip These Kombucha Gifts &amp; Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-do-not-skip-these-kombucha-gifts-accessories-2026.md)
 - [Home &amp; Kitchen Pick: Kombucha Gifts &amp; (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-home-kitchen-pick-kombucha-gifts-2026.md)
