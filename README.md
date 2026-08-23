@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 23, 2026
+- [DUFU Paper Towel: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-dufu-paper-towel-practical-analysis.md)
+
 ### August 22, 2026
 - [Make the Most of BlendWell Electric Milk: Essential&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-make-the-most-of-blendwell-electric-milk-essential.md)
 - [BlendWell Electric Milk vs Middle Eastern Persian: 5&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-22-blendwell-electric-milk-vs-middle-eastern-persian-5.md)
