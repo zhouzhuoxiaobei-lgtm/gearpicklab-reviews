@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 23, 2026
+- [INKBIRD Wireless Dual Buyer&#8217;s Checklist: Everything You&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-inkbird-wireless-dual-buyers-checklist-everything-you.md)
 - [Worth Upgrading? INKBIRD Wireless Dual vs Inkbird Instant&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-worth-upgrading-inkbird-wireless-dual-vs-inkbird-instant.md)
 - [INKBIRD Wireless Dual Alternatives: What to Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-inkbird-wireless-dual-alternatives-what-to-consider.md)
 - [Top INKBIRD Wireless Dual for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-top-inkbird-wireless-dual-for-home-kitchen-2026.md)
