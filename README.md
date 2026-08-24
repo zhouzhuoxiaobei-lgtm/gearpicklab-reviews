@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 24, 2026
+- [Top Alternatives to LONGER Ray5 20W: 5 Picks to Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-24-top-alternatives-to-longer-ray5-20w-5-picks-to-consider.md)
 - [LONGER Ray5 20W: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-24-longer-ray5-20w-key-specs-value-2026.md)
 
 ### August 23, 2026
