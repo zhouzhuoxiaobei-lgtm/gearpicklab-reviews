@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 24, 2026
+- [LONGER Ray5 20W: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-24-longer-ray5-20w-key-specs-value-2026.md)
+
 ### August 23, 2026
 - [Top Add-Ons for Nut Driver &amp;: What to Buy Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-top-add-ons-for-nut-driver-what-to-buy-together-2026.md)
 - [Nut Driver &amp; Alternatives: 6 Picks, Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-23-nut-driver-alternatives-6-picks-compared-2026.md)
