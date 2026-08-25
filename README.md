@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 25, 2026
+- [7 Alternatives to IEUDNS Mini Hot Worth a Look (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-7-alternatives-to-ieudns-mini-hot-worth-a-look-2026.md)
 - [IEUDNS Mini Hot vs WUSILILU Portable Electric: Right for You?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-ieudns-mini-hot-vs-wusililu-portable-electric-right-for-you.md)
 - [IEUDNS Mini Hot: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-ieudns-mini-hot-specs-performance-review.md)
 - [Worth Upgrading? Micymedo 12 Inch vs Locawaya Heavy Duty&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-worth-upgrading-micymedo-12-inch-vs-locawaya-heavy-duty.md)
