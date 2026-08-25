@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 25, 2026
+- [The Hot Plate Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-the-hot-plate-starter-pack-what-to-order-together-2026.md)
 - [Hot Plate: Competitive Analysis (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-hot-plate-competitive-analysis-2026.md)
 - [IEUDNS Mini Hot Accessories for New Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-ieudns-mini-hot-accessories-for-new-owners-2026.md)
 - [IEUDNS Mini Hot vs OneSetNuf Stainless Steel: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-ieudns-mini-hot-vs-onesetnuf-stainless-steel-spec-by-spec.md)
