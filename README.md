@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 25, 2026
+- [AXYCXIN 2 Pack: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-axycxin-2-pack-key-specs-value-2026.md)
+
 ### August 24, 2026
 - [Great Gifts for VBGK Single Burner Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-24-great-gifts-for-vbgk-single-burner-owners-2026.md)
 - [VBGK Single Burner: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-24-vbgk-single-burner-spec-breakdown-2026.md)
