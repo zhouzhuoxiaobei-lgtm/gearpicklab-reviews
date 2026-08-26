@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 26, 2026
+- [AMM 4 PCS: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-26-amm-4-pcs-breaking-down-the-specs.md)
 - [Make the Most of Haivenliuy Double Induction: Essential&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-26-make-the-most-of-haivenliuy-double-induction-essential.md)
 - [Haivenliuy Double Induction: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-26-haivenliuy-double-induction-evaluating-the-features.md)
 
