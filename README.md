@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 26, 2026
+- [Haivenliuy Double Induction: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-26-haivenliuy-double-induction-evaluating-the-features.md)
+
 ### August 25, 2026
 - [The Elementi Electric Milk Add-On Checklist: 5 Essentials&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-the-elementi-electric-milk-add-on-checklist-5-essentials.md)
 - [Elementi Electric Milk: Competitive Analysis (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-25-elementi-electric-milk-competitive-analysis-2026.md)
