@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 27, 2026
+- [NEWBILITY Damaged Screw: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-27-newbility-damaged-screw-what-to-know-before-buying.md)
 - [Best Wissy &amp; Konny at the Same Price: 7 Alternatives (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-27-best-wissy-konny-at-the-same-price-7-alternatives-2026.md)
 - [Wissy &amp; Konny: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-27-wissy-konny-evaluating-the-features.md)
 - [Top Upgrade Choice: Espresso Machines 20 or Middle Eastern&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-27-top-upgrade-choice-espresso-machines-20-or-middle-eastern.md)
