@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 29, 2026
+- [New England Stories: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-29-new-england-stories-features-specs-guide.md)
+
 ### August 28, 2026
 - [EVERHANGER Wall Mount: Top Features Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-28-everhanger-wall-mount-top-features-compared-2026.md)
 - [5 Essential Accessories for Your Professional 158-Piece Home (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-28-5-essential-accessories-for-your-professional-158-piece-home-2026.md)
