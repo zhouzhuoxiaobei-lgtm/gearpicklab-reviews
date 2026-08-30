@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 30, 2026
+- [LIKEPAI Instant Read: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-likepai-instant-read-key-specs-value-2026.md)
+
 ### August 29, 2026
 - [5 Essential Accessories for Your StoreYourBoard Garage Shelving (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-29-5-essential-accessories-for-your-storeyourboard-garage-shelving-2026.md)
 - [StoreYourBoard Garage Shelving Buyer&#8217;s Checklist&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-29-storeyourboard-garage-shelving-buyers-checklist.md)
