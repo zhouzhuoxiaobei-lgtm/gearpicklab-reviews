@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 30, 2026
+- [FRRLY Cast Iron: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-frrly-cast-iron-is-it-worth-it-2026.md)
 - [What to Buy With Your Kombucha Gifts &amp;: Complete Checklist&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-what-to-buy-with-your-kombucha-gifts-complete-checklist.md)
 - [Top Alternatives to Kombucha Gifts &amp;: 5 Picks to Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-top-alternatives-to-kombucha-gifts-5-picks-to-consider.md)
 - [Kombucha Gifts &amp;: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-kombucha-gifts-what-to-know-before-buying.md)
