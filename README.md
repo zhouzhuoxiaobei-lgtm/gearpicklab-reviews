@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### August 30, 2026
+- [Pssopp Mini Electric: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-pssopp-mini-electric-what-the-specs-tell-us.md)
 - [Complete Your LIKEPAI Instant Read Setup: Must-Have&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-complete-your-likepai-instant-read-setup-must-have.md)
 - [Top Alternatives to LIKEPAI Instant Read: 5 Picks to&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-top-alternatives-to-likepai-instant-read-5-picks-to.md)
 - [LIKEPAI Instant Read: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-likepai-instant-read-key-specs-value-2026.md)
