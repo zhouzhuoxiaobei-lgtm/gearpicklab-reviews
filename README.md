@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### August 31, 2026
+- [Audecook Hot Pot: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-31-audecook-hot-pot-spec-breakdown-2026.md)
+
 ### August 30, 2026
 - [FRRLY Cast Iron vs the Competition: 5 Alternatives (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-frrly-cast-iron-vs-the-competition-5-alternatives-2026.md)
 - [FRRLY Cast Iron: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-30-frrly-cast-iron-is-it-worth-it-2026.md)
