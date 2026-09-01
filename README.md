@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 1, 2026
+- [IfU 42-in-1 Mini: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-01-ifu-42-in-1-mini-is-it-worth-it-2026.md)
+
 ### August 31, 2026
 - [banapoy Mini Electric: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-31-banapoy-mini-electric-features-specs-guide.md)
 - [5 Essential Accessories for Your Normcore Handleless Milk (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-08-31-5-essential-accessories-for-your-normcore-handleless-milk-2026.md)
