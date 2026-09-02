@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 2, 2026
+- [WORKPRO Mini Pliers: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-workpro-mini-pliers-evaluating-the-features.md)
 - [5 Essential Accessories for Your TOPWIT Rice Cooker (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-5-essential-accessories-for-your-topwit-rice-cooker-2026.md)
 - [TOPWIT Rice Cooker Accessories That Last: Quality Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-topwit-rice-cooker-accessories-that-last-quality-picks-2026.md)
 - [5 Alternatives That Rival TOPWIT Rice Cooker (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-5-alternatives-that-rival-topwit-rice-cooker-2026.md)
