@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 2, 2026
+- [Shomextol 16.5&#8243;W Power: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-shomextol-16-5w-power-spec-focused-overview.md)
+
 ### September 1, 2026
 - [Upgrading From Bushnell R3 1200? Bushnell Edge Disc&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-01-upgrading-from-bushnell-r3-1200-bushnell-edge-disc.md)
 - [Bushnell R3 1200: Top Features Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-01-bushnell-r3-1200-top-features-compared-2026.md)
