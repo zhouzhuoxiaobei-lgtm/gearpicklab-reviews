@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 3, 2026
+- [Duxtop Portable Induction Essentials: What to Grab First&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-duxtop-portable-induction-essentials-what-to-grab-first.md)
 - [Duxtop Portable Induction: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-duxtop-portable-induction-evaluating-the-features.md)
 
 ### September 2, 2026
