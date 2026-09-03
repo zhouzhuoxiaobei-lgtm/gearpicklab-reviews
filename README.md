@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 3, 2026
+- [Home &amp; Kitchen Pick: Sunkuka Potato Apple (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-home-kitchen-pick-sunkuka-potato-apple-2026.md)
 - [5 Essential Accessories for Your Duxtop Portable Induction (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-5-essential-accessories-for-your-duxtop-portable-induction-2026.md)
 - [Duxtop Portable Induction Essentials: What to Grab First&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-duxtop-portable-induction-essentials-what-to-grab-first.md)
 - [Duxtop Portable Induction: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-duxtop-portable-induction-evaluating-the-features.md)
