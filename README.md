@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 3, 2026
+- [Duxtop Portable Induction: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-duxtop-portable-induction-evaluating-the-features.md)
+
 ### September 2, 2026
 - [ROVIA 18-in-1 Foldable Accessories for New Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-rovia-18-in-1-foldable-accessories-for-new-owners-2026.md)
 - [ROVIA 18-in-1 Foldable Alternatives: 7 Picks, Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-02-rovia-18-in-1-foldable-alternatives-7-picks-compared-2026.md)
