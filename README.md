@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 4, 2026
+- [vivicreate 10 Pack: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-04-vivicreate-10-pack-breaking-down-the-specs.md)
+
 ### September 3, 2026
 - [Kndko Espresso Machine Accessories That Last: Quality&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-kndko-espresso-machine-accessories-that-last-quality.md)
 - [Kndko Espresso Machine vs Kndko Espresso Machine: 5 Things&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-03-kndko-espresso-machine-vs-kndko-espresso-machine-5-things.md)
