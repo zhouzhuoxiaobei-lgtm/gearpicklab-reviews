@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 4, 2026
+- [Kuject Mini Heat: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-04-kuject-mini-heat-what-to-know-before-buying.md)
 - [Should You Buy CASABREWS CM5418 Espresso or CASABREWS&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-04-should-you-buy-casabrews-cm5418-espresso-or-casabrews.md)
 - [Thinking About CASABREWS CM5418 Espresso? Consider These 7&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-04-thinking-about-casabrews-cm5418-espresso-consider-these-7.md)
 - [CASABREWS CM5418 Espresso: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-04-casabrews-cm5418-espresso-key-specs-value-2026.md)
