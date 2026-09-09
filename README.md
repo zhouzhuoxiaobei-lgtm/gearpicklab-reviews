@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 9, 2026
+- [JOZOOES 500W / 120V: Top Features Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-jozooes-500w-120v-top-features-compared-2026.md)
 - [Fermentaholics Airlocks vs GETAJGHSD S-shaped Airlocks:&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-fermentaholics-airlocks-vs-getajghsd-s-shaped-airlocks.md)
 - [The Salton Cooktop Add-On Checklist: 5 Essentials (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-the-salton-cooktop-add-on-checklist-5-essentials-2026.md)
 - [Is It Time to Upgrade? Salton Cooktop vs Salton Portable&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-is-it-time-to-upgrade-salton-cooktop-vs-salton-portable.md)
