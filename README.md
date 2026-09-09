@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 9, 2026
+- [Make the Most of CILICO Candy &amp;: Essential Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-make-the-most-of-cilico-candy-essential-add-ons-2026.md)
 - [CILICO Candy &amp;: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-cilico-candy-practical-analysis.md)
 - [Accessorize Your JOZOOES 500W / 120V: Smart Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-accessorize-your-jozooes-500w-120v-smart-add-ons-2026.md)
 - [JOZOOES 500W / 120V vs JOZOOES 500W / 120V: The Upgrade&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-jozooes-500w-120v-vs-jozooes-500w-120v-the-upgrade.md)
