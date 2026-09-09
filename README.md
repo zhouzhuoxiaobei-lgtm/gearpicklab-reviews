@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 9, 2026
+- [The Salton Cooktop Add-On Checklist: 5 Essentials (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-the-salton-cooktop-add-on-checklist-5-essentials-2026.md)
 - [Is It Time to Upgrade? Salton Cooktop vs Salton Portable&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-is-it-time-to-upgrade-salton-cooktop-vs-salton-portable.md)
 - [Pick a Winner: 6 Alternatives to Salton Cooktop (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-pick-a-winner-6-alternatives-to-salton-cooktop-2026.md)
 - [Salton Cooktop: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-salton-cooktop-does-it-deliver-2026.md)
