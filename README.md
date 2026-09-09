@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 9, 2026
+- [PHX Grove Peg: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-phx-grove-peg-features-specs-guide.md)
+
 ### September 8, 2026
 - [Accessorize Your Klein Tools Klein: Smart Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-08-accessorize-your-klein-tools-klein-smart-add-ons-2026.md)
 - [Klein Tools Klein: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-08-klein-tools-klein-what-to-know-before-buying.md)
