@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 9, 2026
+- [6 Alternatives to TSTQH 3-in-1 Laser That Are Worth It (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-6-alternatives-to-tstqh-3-in-1-laser-that-are-worth-it-2026.md)
 - [TSTQH 3-in-1 Laser: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-tstqh-3-in-1-laser-what-the-specs-tell-us.md)
 - [Best Accessories for PHX Grove Peg: Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-best-accessories-for-phx-grove-peg-top-picks-2026.md)
 - [PHX Grove Peg: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-phx-grove-peg-features-specs-guide.md)
