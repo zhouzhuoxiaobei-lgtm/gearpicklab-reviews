@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 10, 2026
+- [Kitchen Appliances Pick: MOMOKOVA Double Induction (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-10-kitchen-appliances-pick-momokova-double-induction-2026.md)
+
 ### September 9, 2026
 - [Make the Most of CILICO Candy &amp;: Essential Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-make-the-most-of-cilico-candy-essential-add-ons-2026.md)
 - [CILICO Candy &amp;: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-09-cilico-candy-practical-analysis.md)
