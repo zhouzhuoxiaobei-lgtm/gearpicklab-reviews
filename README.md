@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 11, 2026
+- [Kitchen Appliances Pick: HTPOW Mason Jar (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-kitchen-appliances-pick-htpow-mason-jar-2026.md)
 - [Skip YellRin Magnetic Measuring? What YellRin Magnetic&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-skip-yellrin-magnetic-measuring-what-yellrin-magnetic.md)
 - [Swap It: 5 Alternatives to YellRin Magnetic Measuring&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-swap-it-5-alternatives-to-yellrin-magnetic-measuring.md)
 - [YellRin Magnetic Measuring: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-yellrin-magnetic-measuring-key-specs-value-2026.md)
