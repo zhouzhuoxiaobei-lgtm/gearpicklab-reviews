@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 11, 2026
+- [YellRin Magnetic Measuring: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-yellrin-magnetic-measuring-key-specs-value-2026.md)
+
 ### September 10, 2026
 - [Don&#8217;t Forget These: Maestri House Milk Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-10-dont-forget-these-maestri-house-milk-accessories-2026.md)
 - [Maestri House Milk vs Maestri House Milk: What Changed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-10-maestri-house-milk-vs-maestri-house-milk-what-changed-2026.md)
