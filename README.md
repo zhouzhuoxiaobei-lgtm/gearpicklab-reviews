@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 11, 2026
+- [5 Underrated Alternatives to EZ COZY 12 (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-5-underrated-alternatives-to-ez-cozy-12-2026.md)
 - [EZ COZY 12: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-ez-cozy-12-is-it-worth-it-2026.md)
 - [5 Essential Accessories for Your HTPOW Mason Jar (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-5-essential-accessories-for-your-htpow-mason-jar-2026.md)
 - [Best Accessories for HTPOW Mason Jar: Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-11-best-accessories-for-htpow-mason-jar-top-picks-2026.md)
