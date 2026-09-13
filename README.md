@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 13, 2026
+- [Jizlan Blue Mini vs YZÉ By Yizhe 2-Piece: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-jizlan-blue-mini-vs-yze-by-yizhe-2-piece-spec-by-spec.md)
 - [Top Alternatives to Jizlan Blue Mini: 5 Picks to Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-top-alternatives-to-jizlan-blue-mini-5-picks-to-consider.md)
 - [Jizlan Blue Mini: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-jizlan-blue-mini-what-to-know-before-buying.md)
 - [Do You Need Kitchen Appliances for Beginner-Friendly? A&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-do-you-need-kitchen-appliances-for-beginner-friendly-a.md)
