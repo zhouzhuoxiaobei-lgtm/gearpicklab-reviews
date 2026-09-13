@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 13, 2026
+- [wirsh Espresso Machine: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-wirsh-espresso-machine-spec-focused-overview.md)
 - [5 Essential Accessories for Your 12 in 1 (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-5-essential-accessories-for-your-12-in-1-2026.md)
 - [The 12 in 1 Starter Pack: What to Order Together (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-the-12-in-1-starter-pack-what-to-order-together-2026.md)
 - [12 in 1 vs Gratx Qwlyes 104: What Changed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-13-12-in-1-vs-gratx-qwlyes-104-what-changed-2026.md)
