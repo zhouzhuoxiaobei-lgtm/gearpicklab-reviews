@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 15, 2026
+- [The Yosoo Stainless Steel Add-On Checklist: 5 Essentials&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-the-yosoo-stainless-steel-add-on-checklist-5-essentials.md)
 - [Yosoo Stainless Steel vs Yosoo 90ml / 3oz: Which One Is&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-yosoo-stainless-steel-vs-yosoo-90ml-3oz-which-one-is.md)
 - [Yosoo Stainless Steel: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-yosoo-stainless-steel-evaluating-the-features.md)
 - [The 6-in-1 Stackable Kitchen Starter Pack: What to Order&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-the-6-in-1-stackable-kitchen-starter-pack-what-to-order.md)
