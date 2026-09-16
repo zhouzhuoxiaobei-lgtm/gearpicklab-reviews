@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 16, 2026
+- [LEKSTAR M12 Trapsnake: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-16-lekstar-m12-trapsnake-specs-performance-review.md)
+
 ### September 15, 2026
 - [The 2 Pack Matte Accessory Guide: What You Actually Need&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-the-2-pack-matte-accessory-guide-what-you-actually-need.md)
 - [2 Pack Matte: Competitive Analysis (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-15-2-pack-matte-competitive-analysis-2026.md)
