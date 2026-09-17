@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 17, 2026
+- [Bless Magic Chef MER-IR600W: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-bless-magic-chef-mer-ir600w-practical-analysis.md)
 - [The RORECAY Bread Banneton Add-On Checklist: 5 Essentials&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-the-rorecay-bread-banneton-add-on-checklist-5-essentials.md)
 - [RORECAY Bread Banneton vs Rorecay Banneton Bread: The&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-rorecay-bread-banneton-vs-rorecay-banneton-bread-the.md)
 - [RORECAY Bread Banneton &#8211; Home &amp; Kitchen Review (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-rorecay-bread-banneton-home-kitchen-review-2026.md)
