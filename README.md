@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 17, 2026
+- [LONGER Ray5 10W: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-longer-ray5-10w-what-the-specs-tell-us.md)
+
 ### September 16, 2026
 - [5 Essential Accessories for Your phabcf Mini Double (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-16-5-essential-accessories-for-your-phabcf-mini-double-2026.md)
 - [Complete Your phabcf Mini Double Setup: Must-Have&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-16-complete-your-phabcf-mini-double-setup-must-have.md)
