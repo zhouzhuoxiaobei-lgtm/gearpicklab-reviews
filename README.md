@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 18, 2026
+- [SZWJT-LV Power Tool: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-18-szwjt-lv-power-tool-what-to-know-before-buying.md)
+
 ### September 17, 2026
 - [Great Gifts for CASABREWS CASMP350 Milk Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-great-gifts-for-casabrews-casmp350-milk-owners-2026.md)
 - [CASABREWS CASMP350 Milk vs ENLOY Milk Frothing: Features Compared](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-17-casabrews-casmp350-milk-vs-enloy-milk-frothing-features-compared.md)
