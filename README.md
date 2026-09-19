@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 19, 2026
+- [C &amp; H vs Gcroet Mason Jar: Full Comparison](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-c-h-vs-gcroet-mason-jar-full-comparison.md)
 - [C &amp; H: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-c-h-evaluating-the-features.md)
 
 ### September 18, 2026
