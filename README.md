@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 19, 2026
+- [Joseph Nest 9: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-joseph-nest-9-breaking-down-the-specs.md)
 - [Accessorize Your FEYRUN Wall Mounted: Smart Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-accessorize-your-feyrun-wall-mounted-smart-add-ons-2026.md)
 - [FEYRUN Wall Mounted: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-feyrun-wall-mounted-features-specs-guide.md)
 - [Level Up Your 24-Drawer Heavy Duty: 5 Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-19-level-up-your-24-drawer-heavy-duty-5-accessories-2026.md)
