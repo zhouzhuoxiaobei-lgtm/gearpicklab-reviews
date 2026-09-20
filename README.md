@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 20, 2026
+- [Equator 21&#8243; Portable 2-Burner: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-20-equator-21-portable-2-burner-what-to-know-before-buying.md)
 - [Top Add-Ons for Carolart 42-Piece Kids: What to Buy&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-20-top-add-ons-for-carolart-42-piece-kids-what-to-buy.md)
 - [Carolart 42-Piece Kids: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-20-carolart-42-piece-kids-is-it-worth-it-2026.md)
 - [What to Buy With Suncast 4 Pack: 5 Essentials (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-20-what-to-buy-with-suncast-4-pack-5-essentials-2026.md)
