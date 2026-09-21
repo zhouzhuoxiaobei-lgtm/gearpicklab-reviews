@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 21, 2026
+- [Bothyi Hot Pot vs XAUZIX 0015 XAUZIX: Which One Is Right&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-bothyi-hot-pot-vs-xauzix-0015-xauzix-which-one-is-right.md)
 - [Bothyi Hot Pot: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-bothyi-hot-pot-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Kodreat Power Tool (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-5-essential-accessories-for-your-kodreat-power-tool-2026.md)
 - [What to Buy With Your Kodreat Power Tool: Complete&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-what-to-buy-with-your-kodreat-power-tool-complete.md)
