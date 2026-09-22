@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 22, 2026
+- [Ernst Manufacturing 5015: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-ernst-manufacturing-5015-evaluating-the-features.md)
 - [5 Alternatives to Astra Optix OTX/HTX1600 1760yd Worth a&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-5-alternatives-to-astra-optix-otx-htx1600-1760yd-worth-a.md)
 - [Astra Optix OTX/HTX1600 1760yd: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-astra-optix-otx-htx1600-1760yd-key-specs-value-2026.md)
 - [Don&#8217;t Forget These: Rannb Pegboard Cup Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-dont-forget-these-rannb-pegboard-cup-accessories-2026.md)
