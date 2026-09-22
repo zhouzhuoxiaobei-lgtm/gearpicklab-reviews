@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 22, 2026
+- [KOCASO 1800W Dual: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-kocaso-1800w-dual-key-specs-value-2026.md)
+
 ### September 21, 2026
 - [RNXRZANK 6 Pieces Accessories for New Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-rnxrzank-6-pieces-accessories-for-new-owners-2026.md)
 - [RNXRZANK 6 Pieces vs SINCHEEWAY Heavy Duty: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-21-rnxrzank-6-pieces-vs-sincheeway-heavy-duty-spec-by-spec.md)
