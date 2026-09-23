@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 23, 2026
+- [DOQAUS Meat Thermometer vs ChefsTemp Pocket Pro 1-Second:&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-doqaus-meat-thermometer-vs-chefstemp-pocket-pro-1-second.md)
 - [DOQAUS Meat Thermometer: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-doqaus-meat-thermometer-specs-performance-review.md)
 - [Jusgym 2-Pack 2x4ft Accessories That Last: Quality Picks&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-jusgym-2-pack-2x4ft-accessories-that-last-quality-picks.md)
 - [Top Upgrade Choice: Jusgym 2-Pack 2x4ft or Jusgym 2-Pack&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-top-upgrade-choice-jusgym-2-pack-2x4ft-or-jusgym-2-pack.md)
