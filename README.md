@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 23, 2026
+- [FLEXIMOUNTS 2-Pack 1x6ft: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-fleximounts-2-pack-1x6ft-is-it-worth-it-2026.md)
+
 ### September 22, 2026
 - [Pinned Golf Pinned vs SIGHTFLAG GF2 Golf: Tested &amp; Compared](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-pinned-golf-pinned-vs-sightflag-gf2-golf-tested-compared.md)
 - [Pinned Golf Pinned: Practical Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-22-pinned-golf-pinned-practical-analysis.md)
