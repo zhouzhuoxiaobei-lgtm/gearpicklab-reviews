@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 24, 2026
+- [Duxtop Professional Portable: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-24-duxtop-professional-portable-does-it-deliver-2026.md)
+
 ### September 23, 2026
 - [5 Essential Accessories for Your DOQAUS Meat Thermometer (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-5-essential-accessories-for-your-doqaus-meat-thermometer-2026.md)
 - [Outdoor Gear Beginner-Friendly: 6 Reviewed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-23-outdoor-gear-beginner-friendly-6-reviewed-2026.md)
