@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 25, 2026
+- [AROMA® CoreCoat Rice: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-25-aroma-corecoat-rice-does-it-deliver-2026.md)
+
 ### September 24, 2026
 - [Best Value Accessories for ZEBEIYU 32oz Beer (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-24-best-value-accessories-for-zebeiyu-32oz-beer-2026.md)
 - [ZEBEIYU 32oz Beer vs ZEBEIYU Swing Top: 5 Things to&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-24-zebeiyu-32oz-beer-vs-zebeiyu-swing-top-5-things-to.md)
