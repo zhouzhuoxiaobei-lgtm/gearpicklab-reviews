@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 26, 2026
+- [Suburban Single Element: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-26-suburban-single-element-specs-performance-review.md)
 - [Top Add-Ons for ThermoMaven Professional Digital: What to&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-26-top-add-ons-for-thermomaven-professional-digital-what-to.md)
 - [ThermoMaven Professional Digital vs ThermoMaven Get One&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-26-thermomaven-professional-digital-vs-thermomaven-get-one.md)
 - [ThermoMaven Professional Digital: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-26-thermomaven-professional-digital-does-it-deliver-2026.md)
