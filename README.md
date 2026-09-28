@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### September 28, 2026
+- [Programmable Espresso &amp;: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-28-programmable-espresso-breaking-down-the-specs.md)
+
 ### September 27, 2026
 - [BILIPALA Laser Distance vs BILIPALA Laser Measure 229ft&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-27-bilipala-laser-distance-vs-bilipala-laser-measure-229ft.md)
 - [BILIPALA Laser Distance vs Hammerhead Rechargeable Compact&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-27-bilipala-laser-distance-vs-hammerhead-rechargeable-compact.md)
