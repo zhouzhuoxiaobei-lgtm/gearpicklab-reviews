@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 28, 2026
+- [Elite Gourmet EGC115M: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-28-elite-gourmet-egc115m-breaking-down-the-specs.md)
 - [Best Alternatives to Ouinis Screwdriver Organizer — 6&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-28-best-alternatives-to-ouinis-screwdriver-organizer-6.md)
 - [Ouinis Screwdriver Organizer: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-28-ouinis-screwdriver-organizer-breaking-down-the-specs.md)
 - [6 Budget-Friendly Alternatives to DIOOSN 4 Layers (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-28-6-budget-friendly-alternatives-to-dioosn-4-layers-2026.md)
