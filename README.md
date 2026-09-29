@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 29, 2026
+- [The Chef Prosentials Espresso Add-On Checklist: 5&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-the-chef-prosentials-espresso-add-on-checklist-5.md)
 - [Chef Prosentials Espresso: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-chef-prosentials-espresso-specs-performance-review.md)
 - [5 Essential Accessories for Your SOLIGT 4-Pack (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-5-essential-accessories-for-your-soligt-4-pack-2026.md)
 - [5 Must-Have Accessories for SOLIGT 4-Pack (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-5-must-have-accessories-for-soligt-4-pack-2026.md)
