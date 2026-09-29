@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 29, 2026
+- [AIRMSEN 20 Bar vs TENKER Espresso Machine 20: Kitchen&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-airmsen-20-bar-vs-tenker-espresso-machine-20-kitchen.md)
 - [AIRMSEN 20 Bar: Competitive Analysis (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-29-airmsen-20-bar-competitive-analysis-2026.md)
 
 ### September 28, 2026
