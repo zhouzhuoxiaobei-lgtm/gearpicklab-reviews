@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 30, 2026
+- [OXO Good Grips: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-oxo-good-grips-what-to-know-before-buying.md)
 - [5 Must-Have Accessories for Blue Tees Golf (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-5-must-have-accessories-for-blue-tees-golf-2026.md)
 - [Blue Tees Golf vs REDTIGER Golf Rangefinder: Reviewed for&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-blue-tees-golf-vs-redtiger-golf-rangefinder-reviewed-for.md)
 - [Blue Tees Golf: A Detailed Spec Analysis](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-blue-tees-golf-a-detailed-spec-analysis.md)
