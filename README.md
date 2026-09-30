@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### September 30, 2026
+- [Kitchen Appliances Pick: Elite Gourmet EGL-6101 (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-kitchen-appliances-pick-elite-gourmet-egl-6101-2026.md)
 - [Thinking About OXO Good Grips? Consider These 7 Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-thinking-about-oxo-good-grips-consider-these-7-instead-2026.md)
 - [OXO Good Grips: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-oxo-good-grips-what-to-know-before-buying.md)
 - [5 Must-Have Accessories for Blue Tees Golf (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-09-30-5-must-have-accessories-for-blue-tees-golf-2026.md)
