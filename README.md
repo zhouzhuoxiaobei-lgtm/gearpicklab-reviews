@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 1, 2026
+- [Thinking About Portable Electric Cooker 500W? Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-01-thinking-about-portable-electric-cooker-500w-consider.md)
 - [Portable Electric Cooker 500W &#8211; Kitchen Appliances Review&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-01-portable-electric-cooker-500w-kitchen-appliances-review.md)
 - [Notmise 72&#8243;H Metal Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-01-notmise-72h-metal-setup-essential-accessories-add-ons.md)
 - [Notmise 72&#8243;H Metal: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-01-notmise-72h-metal-right-for-your-needs.md)
