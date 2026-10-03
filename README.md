@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 3, 2026
+- [StoreYourBoard Skateboard Rack: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-03-storeyourboard-skateboard-rack-features-specs-guide.md)
+
 ### October 2, 2026
 - [OOU Silicone Kitchen Essentials: What to Grab First (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-02-oou-silicone-kitchen-essentials-what-to-grab-first-2026.md)
 - [Top OOU Silicone Kitchen for Home &amp; Kitchen (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-02-top-oou-silicone-kitchen-for-home-kitchen-2026.md)
