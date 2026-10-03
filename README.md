@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 3, 2026
+- [What to Buy With Your StoreYourBoard Skateboard Rack&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-03-what-to-buy-with-your-storeyourboard-skateboard-rack.md)
 - [StoreYourBoard Skateboard Rack: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-03-storeyourboard-skateboard-rack-features-specs-guide.md)
 
 ### October 2, 2026
