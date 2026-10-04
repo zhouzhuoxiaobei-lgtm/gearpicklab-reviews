@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 4, 2026
+- [QENWKXZ Hot Pot: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-04-qenwkxz-hot-pot-what-to-know-before-buying.md)
+
 ### October 3, 2026
 - [Stebcece Efficient Wall to End Set &amp;: Worth the Jump? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-03-stebcece-efficient-wall-to-end-set-worth-the-jump-2026.md)
 - [Looking for Stebcece Efficient Wall Alternatives? 6 Top&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-03-looking-for-stebcece-efficient-wall-alternatives-6-top.md)
