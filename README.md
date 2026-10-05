@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 5, 2026
+- [COMI Glass Formula: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-05-comi-glass-formula-what-to-know-before-buying.md)
 - [Best Value Accessories for susunnus Stainless Steel (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-05-best-value-accessories-for-susunnus-stainless-steel-2026.md)
 - [susunnus Stainless Steel vs NattyDot Large Power: Home &amp;&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-05-susunnus-stainless-steel-vs-nattydot-large-power-home.md)
 - [susunnus Stainless Steel: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-05-susunnus-stainless-steel-does-it-deliver-2026.md)
