@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 7, 2026
+- [Artilife 500W Mini: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-07-artilife-500w-mini-features-specs-guide.md)
+
 ### October 6, 2026
 - [5 Alternatives to Bluetooth Wirless Meat That Are Worth It&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-06-5-alternatives-to-bluetooth-wirless-meat-that-are-worth-it.md)
 - [Bluetooth Wirless Meat: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-06-bluetooth-wirless-meat-evaluating-the-features.md)
