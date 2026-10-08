@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 8, 2026
+- [ENLOY Milk Frothing: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-08-enloy-milk-frothing-is-it-worth-it-2026.md)
+
 ### October 7, 2026
 - [NBGYTECH Mini Broom Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-07-nbgytech-mini-broom-setup-essential-accessories-add-ons.md)
 - [NBGYTECH Mini Broom vs NEQXFQ Wall Mount: Spec-by-Spec&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-07-nbgytech-mini-broom-vs-neqxfq-wall-mount-spec-by-spec.md)
