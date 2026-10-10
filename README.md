@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 10, 2026
+- [Alternatives to Weceleh Portable Induction: 5 Similar&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-alternatives-to-weceleh-portable-induction-5-similar.md)
 - [Weceleh Portable Induction: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-weceleh-portable-induction-features-specs-guide.md)
 - [5 Essential Accessories for Your Bellglee 2 Pack (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-5-essential-accessories-for-your-bellglee-2-pack-2026.md)
 - [Upgrade Your Bellglee 2 Pack: Accessories Worth It (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-upgrade-your-bellglee-2-pack-accessories-worth-it-2026.md)
