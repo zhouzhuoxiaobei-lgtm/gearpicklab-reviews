@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 10, 2026
+- [HZJSPXC 20 oz: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-hzjspxc-20-oz-evaluating-the-features.md)
 - [KitchenAid Metal Semi-Automatic Setup: Essential&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-kitchenaid-metal-semi-automatic-setup-essential.md)
 - [KitchenAid Metal Semi-Automatic to KitchenAid Dual Smart&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-kitchenaid-metal-semi-automatic-to-kitchenaid-dual-smart.md)
 - [KitchenAid Metal Semi-Automatic: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-10-kitchenaid-metal-semi-automatic-does-it-deliver-2026.md)
