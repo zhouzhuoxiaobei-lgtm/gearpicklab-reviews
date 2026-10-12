@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 12, 2026
+- [Gourmia Slim Espresso: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-12-gourmia-slim-espresso-spec-focused-overview.md)
+
 ### October 11, 2026
 - [Do Not Skip These Lorbro Broom Holder Accessories (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-11-do-not-skip-these-lorbro-broom-holder-accessories-2026.md)
 - [Lorbro Broom Holder: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-11-lorbro-broom-holder-is-it-worth-it-2026.md)
