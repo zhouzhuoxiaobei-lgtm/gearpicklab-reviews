@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 13, 2026
+- [FastCap ProCarpenter True32: Is It Worth It? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-fastcap-procarpenter-true32-is-it-worth-it-2026.md)
 - [Worth Upgrading? ACPOTEL Golf Range vs ACPOTEL Range&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-worth-upgrading-acpotel-golf-range-vs-acpotel-range.md)
 - [ACPOTEL Golf Range &#8211; Sports &amp; Outdoors Review (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-acpotel-golf-range-sports-outdoors-review-2026.md)
 - [5 Essential Accessories for Your Professional 158-Piece Home (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-5-essential-accessories-for-your-professional-158-piece-home-2026.md)
