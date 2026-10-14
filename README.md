@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 14, 2026
+- [Dezin Hot Pot: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-dezin-hot-pot-spec-focused-overview.md)
+
 ### October 13, 2026
 - [5 Essential Accessories for Your FastCap ProCarpenter True32 (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-5-essential-accessories-for-your-fastcap-procarpenter-true32-2026.md)
 - [FastCap ProCarpenter True32 vs Tool Inch &amp;: Top Home &amp;&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-13-fastcap-procarpenter-true32-vs-tool-inch-top-home.md)
