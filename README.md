@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 14, 2026
+- [Zulay Kitchen Powerful: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-zulay-kitchen-powerful-spec-breakdown-2026.md)
 - [The Best Dezin Hot Pot Alternatives: 6 Compared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-the-best-dezin-hot-pot-alternatives-6-compared-2026.md)
 - [Dezin Hot Pot: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-dezin-hot-pot-spec-focused-overview.md)
 
