@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 15, 2026
+- [MILESEEY IONJET Hunting: Features &amp; Specs Guide](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-15-mileseey-ionjet-hunting-features-specs-guide.md)
+
 ### October 14, 2026
 - [VEVOR Power Tool vs VEVOR Wireless Meat: Should You&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-vevor-power-tool-vs-vevor-wireless-meat-should-you.md)
 - [VEVOR Power Tool vs Tccxfot Power Tool: Key Differences](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-14-vevor-power-tool-vs-tccxfot-power-tool-key-differences.md)
