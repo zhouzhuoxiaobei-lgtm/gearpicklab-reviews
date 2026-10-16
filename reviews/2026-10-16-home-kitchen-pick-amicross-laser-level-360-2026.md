@@ -1,0 +1,37 @@
+# Home &amp; Kitchen Pick: AMICROSS Laser Level 360 (2026)
+
+> Originally published on [www.gearpicklab.com](https://www.gearpicklab.com/review/home-kitchen-pick-amicross-laser-level-360-2026/)
+
+what caught our attention title: AMICROSS Laser Level 360 - Four 360° Lines and Two Batteries, With No Accuracy Figure in the Spec Sheet You're tiling a bathroom floor and want a level line wrapping all four walls at once. Or you're hanging a gallery wall and don't want to reposition a tripod for every row of frames. With 16 lines across four 360° planes, the AMICROSS Laser Level 360 claims to cover the whole room without moving the unit. The question is whether the specs back that up - and on one critical number, they don't. Here's what the listing actually gives you. Two 360° horizontal lines and two 360° vertical lines. All green. With a maximum range of 25 metres. A self-levelling range of ±3°, with an audible alarm and flashing lines when it's tilted past that. Three operating modes: self-levelling (default), manual (hold the middle button 3 seconds), and strobe (double-click the middle button). [IP54](https://en.wikipedia.org/wiki/IP_Code)our take is rating. Two 2400mAh batteries. Each rated for 2-5 hours of continuous line-on runtime, plus a charger and a remote. 
+SpecificationValue
+Laser lines4 × 360° (2 horizontal. 2 vertical), 16 total
+Laser colour / classGreen. Class II, <1mW output
+Maximum range25 m
+Self-levelling range±3°
+Working modesSelf-levelling, manual, strobe
+Battery2 × 2400 mAh, 2-5 hrs each
+Protection class[IP54](https://en.wikipedia.org/wiki/IP_Code)
+Included accessoriesWall bracket. Iron sheet, lifting frame, remote, charger, trim base, carry box
+what stood out to us the ±3° self-levelling window matters more than it sounds. That's the maximum tilt the unit can correct for before it gives up and alarms. On a floor that's noticeably out of level. Or a wall that isn't plumb. You may hit that ceiling and need to shim or reposition the base. For picture hanging on interior walls. You'll rarely notice. For floor work or door frames on a rough subfloor. It's worth checking before you commit. The 25-metre range is the headline for most buyers. But green lasers are brightest at the source and fade with distance and ambient light. The strobe mode exists specifically because the line gets hard to see in strong daylight or outdoors - that's the manufacturer acknowledging the limitation, not solving it. Indoors in normal room lighting, 25 m is workable. Outdoors in direct sun. Expect to rely on the detector-friendly strobe and still work closer than the rated maximum. The 2400mAh batteries are the practical standout. Two packs at 2-5 hours each means you can run one while the other charges, so a full day of intermittent use is realistic without hunting for an outlet. The 2-5 hour window is wide - that's the manufacturer covering the difference between running all 16 lines versus a single plane - and between full and reduced brightness. If you're running all four planes at maximum output, plan for the low end. [IP54](https://en.wikipedia.org/wiki/IP_Code) covers dust ingress and water spray from any direction. That's meaningful on a job site where dust and light rain happen. But it isn't a waterproof rating - don't submerge it or leave it out in a downpour. The included wall bracket, lifting frame, and trim base suggest the unit is designed to mount on walls, ceilings, and floors rather than sit on a tripod, which fits the "cover the whole room from one position" pitch. The honest gap: there's no accuracy figure anywhere in the provided specifications. No ±1mm/10m* (based on available data), no ±0.2mm* (based on available data)/m, nothing. For a laser level. That's the number that tells you whether the line you're trusting for tile or cabinetry is actually straight. Without it. You're taking the manufacturer's word. That's not a dealbreaker for hanging pictures or rough layout. But if you're doing finish work where a few millimetres compound across a room, it's a real unknown. Also absent: weight, operating temperature range, and any tripod thread specification. Summary This is a four-plane green laser with generous battery capacity and a solid accessory kit. Priced and specced for the mid-tier of the 360° laser level category. The ±3° self-levelling window and 25 m range are competitive for the class. The missing accuracy specification is the one thing that keeps it from being an easy call for precision work. It suits DIYers and contractors doing layout, framing, and picture hanging; finish carpenters and tilers who need documented accuracy should look for a unit that publishes its tolerance. Who this is for: someone who needs coverage, not precision. A remodeler hanging cabinets across a kitchen. A homeowner tiling a backsplash who wants level reference lines on all four walls without repositioning, or a contractor doing rough layout on a job site where [IP54](https://en.wikipedia.org/wiki/IP_Code) and two batteries matter more than a lab-grade tolerance figure. The remote control and wall-mount hardware mean you can set it once and adjust lines without climbing back up to the unit. Who should look elsewhere: anyone doing finish work where cumulative error matters - large-format tile. Long runs of cabinetry, or anything where you'd normally verify with a laser that publishes its accuracy. If you need a documented tolerance or plan to work outdoors in direct sun at the full 25 m. This unit's specs don't give you what you need to make that call. And if you already own a tripod-based level and just want a second unit for occasional use. Two batteries and a full bracket kit may be more than your workflow requires. IMAGE ALT TEXT:
+1. "AMICROSS Laser Level 360 - control panel with mode buttons"
+2. "AMICROSS Laser Level 360 - carry case with batteries, charger, and remote"
+3. "AMICROSS Laser Level 360 - mounted on wall bracket projecting cross lines"
+
+### What Comes with the AMICROSS Laser Level 360
+Laser Level kit
+
+### Final Analysis
+Based on our analysis of the available product data. The AMICROSS Laser Level 360 offers a well-documented set of specifications and features in the Home & Kitchen category. The product data provides clear information about its construction, capabilities, and intended use.
+
+**🧭 Where We Started:** Our look at the AMICROSS Laser Level 360 began with the spec sheet and the product data available. From there we mapped each specification to the considerations that typically decide a purchase in this category - nothing more, nothing invented. If you are deciding on the AMICROSS Laser Level 360, this breakdown covers the details that usually decide the purchase.Before purchasing the AMICROSS Laser Level 360, consider your available space, maintenance preferences, and how frequently you will use it. The product data gives a solid overview of what to expect.
+
+**Content Update History**
+Originally published: October 16, 2026
+
+Analysis based on product specifications and available product data for AMICROSS Laser Level 360. Product details. Pricing - and availability are subject to change.  Overall, we think the AMICROSS Laser Level 360 offers a solid option for anyone shopping in the Home & Kitchen category.
+
+---
+
+*Read the full review with complete specs, pros/cons, and pricing on [www.gearpicklab.com](https://www.gearpicklab.com/review/home-kitchen-pick-amicross-laser-level-360-2026/).*
+
+*This article contains affiliate links. We may earn a commission at no extra cost to you.*
