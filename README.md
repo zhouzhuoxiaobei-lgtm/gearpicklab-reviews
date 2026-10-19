@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 19, 2026
+- [AH Artisan Home: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-ah-artisan-home-key-specs-value-2026.md)
 - [What to Buy With Your HUPBIPY 12 Pack: Complete Checklist&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-what-to-buy-with-your-hupbipy-12-pack-complete-checklist.md)
 - [Upgrading From HUPBIPY 12 Pack? HUPBIPY Modular Power&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-upgrading-from-hupbipy-12-pack-hupbipy-modular-power.md)
 - [6 Alternatives to HUPBIPY 12 Pack Worth a Look (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-6-alternatives-to-hupbipy-12-pack-worth-a-look-2026.md)
