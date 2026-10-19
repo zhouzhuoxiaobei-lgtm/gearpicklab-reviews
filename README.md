@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 19, 2026
+- [NewGF Milk Frothing: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-newgf-milk-frothing-spec-focused-overview.md)
+
 ### October 18, 2026
 - [Best Accessories for Prexiso Laser Level: Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-18-best-accessories-for-prexiso-laser-level-top-picks-2026.md)
 - [Prexiso Laser Level: What the Specs Tell Us](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-18-prexiso-laser-level-what-the-specs-tell-us.md)
