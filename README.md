@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 19, 2026
+- [JUMSHON Portable USB: Evaluating the Features](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-jumshon-portable-usb-evaluating-the-features.md)
 - [5 Essential Accessories for Your Yoidesu Electric Stove (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-5-essential-accessories-for-your-yoidesu-electric-stove-2026.md)
 - [Top Alternatives to Yoidesu Electric Stove: 6 Picks to&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-top-alternatives-to-yoidesu-electric-stove-6-picks-to.md)
 - [Yoidesu Electric Stove: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-19-yoidesu-electric-stove-key-specs-value-2026.md)
