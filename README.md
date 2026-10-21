@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 21, 2026
+- [DURATECH Power Tool vs YueTong Power Tool: Full Comparison](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-21-duratech-power-tool-vs-yuetong-power-tool-full-comparison.md)
 - [DURATECH Power Tool: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-21-duratech-power-tool-spec-focused-overview.md)
 - [Small Upgrades for Your Oshlun LG-M02 Green (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-21-small-upgrades-for-your-oshlun-lg-m02-green-2026.md)
 - [Skip Oshlun LG-M02 Green? Try These 5 Alternatives (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-21-skip-oshlun-lg-m02-green-try-these-5-alternatives-2026.md)
