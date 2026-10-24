@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 24, 2026
+- [Kitchen Appliances Pick: Nafewin Portable Induction (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-24-kitchen-appliances-pick-nafewin-portable-induction-2026.md)
 - [Best Accessories for TGFTGF 78 PCS: Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-24-best-accessories-for-tgftgf-78-pcs-top-picks-2026.md)
 - [TGFTGF 78 PCS: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-24-tgftgf-78-pcs-breaking-down-the-specs.md)
 - [5 Essential Accessories for Your Milwaukee Electric (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-24-5-essential-accessories-for-your-milwaukee-electric-2026.md)
