@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 26, 2026
+- [Dasqua Left-Handed Digital: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-26-dasqua-left-handed-digital-does-it-deliver-2026.md)
+
 ### October 25, 2026
 - [Best Accessories for BoVano Electric Skillet: Top Picks (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-25-best-accessories-for-bovano-electric-skillet-top-picks-2026.md)
 - [BoVano Electric Skillet: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-25-bovano-electric-skillet-right-for-your-needs.md)
