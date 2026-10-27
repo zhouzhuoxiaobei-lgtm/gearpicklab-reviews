@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 27, 2026
+- [Lufkin Shockforce G2 25-ft: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-lufkin-shockforce-g2-25-ft-specs-performance-review.md)
 - [Upgrading From Acer Gadget Golf? Acer Hunting Range&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-upgrading-from-acer-gadget-golf-acer-hunting-range.md)
 - [Best Acer Gadget Golf at the Same Price: 7 Alternatives (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-best-acer-gadget-golf-at-the-same-price-7-alternatives-2026.md)
 - [Acer Gadget Golf: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-acer-gadget-golf-does-it-deliver-2026.md)
