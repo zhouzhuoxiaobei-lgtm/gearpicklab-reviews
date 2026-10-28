@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 28, 2026
+- [Captain Sourpants Complete: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-captain-sourpants-complete-breaking-down-the-specs.md)
 - [JoyMercado Milk Frothing vs waatfeet Double Induction&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-joymercado-milk-frothing-vs-waatfeet-double-induction.md)
 - [7 Alternatives That Rival JoyMercado Milk Frothing (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-7-alternatives-that-rival-joymercado-milk-frothing-2026.md)
 - [Kitchen Appliances Pick: JoyMercado Milk Frothing (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-kitchen-appliances-pick-joymercado-milk-frothing-2026.md)
