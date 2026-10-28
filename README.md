@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### October 28, 2026
+- [Kitchen Appliances Pick: JoyMercado Milk Frothing (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-kitchen-appliances-pick-joymercado-milk-frothing-2026.md)
+
 ### October 27, 2026
 - [Pair These Accessories With Lufkin Shockforce G2 25-ft (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-pair-these-accessories-with-lufkin-shockforce-g2-25-ft-2026.md)
 - [Lufkin Shockforce G2 25-ft: Specs &amp; Performance Review](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-27-lufkin-shockforce-g2-25-ft-specs-performance-review.md)
