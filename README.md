@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 28, 2026
+- [Breville BES003 Temp Alternatives: What to Consider&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-breville-bes003-temp-alternatives-what-to-consider.md)
 - [Breville BES003 Temp: Competitive Analysis (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-breville-bes003-temp-competitive-analysis-2026.md)
 - [Captain Sourpants Complete Buyer&#8217;s Checklist: Everything&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-captain-sourpants-complete-buyers-checklist-everything.md)
 - [Captain Sourpants Complete: Breaking Down the Specs](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-28-captain-sourpants-complete-breaking-down-the-specs.md)
