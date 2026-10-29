@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### October 29, 2026
+- [REDTIGER Range Finder: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-29-redtiger-range-finder-does-it-deliver-2026.md)
 - [Top Add-Ons for Nikon COOLSHOT PROII: What to Buy Together&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-29-top-add-ons-for-nikon-coolshot-proii-what-to-buy-together.md)
 - [Nikon COOLSHOT PROII vs | Waterproof &amp;: 5 Things to&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-29-nikon-coolshot-proii-vs-waterproof-5-things-to.md)
 - [Nikon COOLSHOT PROII: Does It Deliver? (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-29-nikon-coolshot-proii-does-it-deliver-2026.md)
