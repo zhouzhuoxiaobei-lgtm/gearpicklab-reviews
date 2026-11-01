@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### November 1, 2026
+- [FONDOTIN Heavy Duty: Spec-Focused Overview](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-01-fondotin-heavy-duty-spec-focused-overview.md)
+
 ### October 31, 2026
 - [The MOPFOL 400ml Stainless Add-On Checklist: 5 Essentials&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-31-the-mopfol-400ml-stainless-add-on-checklist-5-essentials.md)
 - [MOPFOL 400ml Stainless vs Maxdot 3 Pack: What Changed (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-10-31-mopfol-400ml-stainless-vs-maxdot-3-pack-what-changed-2026.md)
