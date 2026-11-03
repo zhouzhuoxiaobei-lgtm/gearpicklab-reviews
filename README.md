@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### November 3, 2026
+- [Mini Electric Cooker: What to Know Before Buying](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-03-mini-electric-cooker-what-to-know-before-buying.md)
 - [5 Essential Accessories for Your Professional 158-Piece Home (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-03-5-essential-accessories-for-your-professional-158-piece-home-2026.md)
 - [Accessorize Your Anu Limen 300ml 10oz: Smart Add-Ons (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-03-accessorize-your-anu-limen-300ml-10oz-smart-add-ons-2026.md)
 - [Alternatives to Anu Limen 300ml 10oz: 7 Similar Products&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-03-alternatives-to-anu-limen-300ml-10oz-7-similar-products.md)
