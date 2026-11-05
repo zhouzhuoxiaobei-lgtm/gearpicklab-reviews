@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### November 5, 2026
+- [5 Budget-Friendly Alternatives to Herture Mini Fridge (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-5-budget-friendly-alternatives-to-herture-mini-fridge-2026.md)
 - [Herture Mini Fridge: Right for Your Needs?](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-herture-mini-fridge-right-for-your-needs.md)
 - [Complete Your Pellethead GMG Green Setup: Must-Have&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-complete-your-pellethead-gmg-green-setup-must-have.md)
 - [Pellethead GMG Green: Key Specs &amp; Value (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-pellethead-gmg-green-key-specs-value-2026.md)
