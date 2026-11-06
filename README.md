@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### November 6, 2026
+- [Complete Your Countertop Burner &amp; Setup: Must-Have&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-complete-your-countertop-burner-setup-must-have.md)
 - [Countertop Burner &amp; vs ChangBERT Portable Induction: What&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-countertop-burner-vs-changbert-portable-induction-what.md)
 - [Countertop Burner &amp;: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-countertop-burner-spec-breakdown-2026.md)
 - [Worth Upgrading? TempPro TP01A vs TempPro TP30 Infrared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-worth-upgrading-temppro-tp01a-vs-temppro-tp30-infrared-2026.md)
