@@ -4,6 +4,7 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 ## Latest Reviews
 
 ### November 6, 2026
+- [Countertop Burner &amp;: Spec Breakdown (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-countertop-burner-spec-breakdown-2026.md)
 - [Worth Upgrading? TempPro TP01A vs TempPro TP30 Infrared (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-worth-upgrading-temppro-tp01a-vs-temppro-tp30-infrared-2026.md)
 - [TempPro TP01A Alternatives: What to Consider Instead (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-temppro-tp01a-alternatives-what-to-consider-instead-2026.md)
 - [TempPro TP01A vs Beelicious Pro LockView FM151: Head-to-Head&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-temppro-tp01a-vs-beelicious-pro-lockview-fm151-head-to-head.md)
