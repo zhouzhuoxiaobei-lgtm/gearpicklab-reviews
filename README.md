@@ -3,6 +3,9 @@ Product reviews from GearPickLab - expert analysis of Amazon products with affil
 
 ## Latest Reviews
 
+### November 6, 2026
+- [Home &amp; Kitchen Pick: GreenPan Mini Healthy (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-06-home-kitchen-pick-greenpan-mini-healthy-2026.md)
+
 ### November 5, 2026
 - [Great Gifts for Zerodis Multifunctional Portable Owners (2026)](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-great-gifts-for-zerodis-multifunctional-portable-owners-2026.md)
 - [Swap It: 7 Alternatives to Zerodis Multifunctional&#8230;](https://github.com/zhouzhuoxiaobei-lgtm/gearpicklab-reviews/blob/main/reviews/2026-11-05-swap-it-7-alternatives-to-zerodis-multifunctional.md)
